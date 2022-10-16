@@ -1,0 +1,10 @@
+@import url(../node_modules/bootstrap/dist/css/bootstrap.min.css);
+p{
+    margin-left: 20px;
+}
+button{
+    margin-left: 20px;
+}
+h2{
+    color:gray;
+}
