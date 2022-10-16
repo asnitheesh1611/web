@@ -1,4 +1,6 @@
 #web
+
+
 First we created an app named web.
 Then we installed bootstrap in it using the code "npm install".
 Inside the app we then created three components globally using "ng g c componentname".
