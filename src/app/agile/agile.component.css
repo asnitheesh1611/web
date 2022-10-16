@@ -8,13 +8,18 @@ header{
     background-color: white;width: 100%;height: fit-content;
 }
 .one{
-    width: 80%;height: 800px;background-color:aqua;overflow: hidden;
+    width: 80%;height: 800px;background-color:aqua;overflow: hidden;border: solid aqua;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
 }
 
 
 .ag{
     border-radius: 100%;
-    margin-left: 100px;
+    margin-left: 130px;
     width: 75%;
     height: 45%;
+    margin-top: 50px;
 }
